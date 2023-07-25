@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm working to improve myself<br>🌱 I’m currently learning Swift<br>📫 How to reach me: olcekoznur@gmail.com
+👩‍💻 I'm working to improve myself.<br>🌱 I’m currently learning Swift<br>📫 How to reach me: olcekoznur@gmail.com
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=oznurolcek&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oznurolcek&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oznurolcek&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=oznurolcek&icon=6&color=0)](https://visitcount.itsvg.in)
