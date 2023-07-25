@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm working to improve myself.<br>🌱 I’m currently learning Swift<br>📫 How to reach me: olcekoznur@gmail.com
+👩‍💻 I'm working to improve myself<br>🌱 I’m currently learning Swift<br>📫 How to reach me: olcekoznur@gmail.com
 
 
 ## 🌐 Socials:
