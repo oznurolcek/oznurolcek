@@ -1,3 +1,5 @@
+![cat-computer](https://github.com/oznurolcek/oznurolcek/assets/80714030/629c9e50-5a9b-4f93-83e5-5776d5159e05)
+
 # 💫 About Me:
 👩‍💻 I'm working to improve myself<br>🌱 I’m currently learning Swift<br>📫 How to reach me: olcekoznur@gmail.com
 
